@@ -98,6 +98,10 @@ const config: Config = {
           title: 'More',
           items: [
             {
+              label: 'Arcane Forge',
+              href: 'https://arcaneforge.ai',
+            },
+            {
               label: 'GitHub',
               href: 'https://github.com/arcane-forge-ai/arcane-forge-doc',
             },
