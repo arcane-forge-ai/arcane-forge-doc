@@ -1,0 +1,3 @@
+# Python dependencies for utility scripts
+Pillow>=10.0.0
+
