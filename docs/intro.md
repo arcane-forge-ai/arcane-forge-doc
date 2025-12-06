@@ -18,14 +18,14 @@ Ready to start building? Check out our [Get Started](/docs/get-started/build-you
 
 Our documentation is organized to guide you through the entire game development process:
 
-- **[Get Started](/docs/get-started/build-your-first-game)**: Learn the basics and build your first game
-- **[Idealization](/docs/idealization)**: Conceptualize and plan your game ideas
-- **[Coding](/docs/coding)**: Develop and code your games
-- **[Image Generation](/docs/image-generation)**: Create and use images in your games
-- **[SFX Generation](/docs/sfx-generation)**: Generate and integrate sound effects
-- **[Music Generation](/docs/music-generation)**: Create and add music to your games
-- **[Iteration](/docs/iteration)**: Refine and improve your games
-- **[Supports](/docs/supports/faqs)**: Get help and find answers to common questions
+- **[Get Started](/docs/category/get-started)**: Learn the basics and build your first game
+- **[Idealization](/docs/category/idealization)**: Conceptualize and plan your game ideas
+- **[Coding](/docs/category/coding)**: Develop and code your games
+- **[Image Generation](/docs/category/image-generation)**: Create and use images in your games
+- **[SFX Generation](/docs/category/sfx-generation)**: Generate and integrate sound effects
+- **[Music Generation](/docs/category/music-generation)**: Create and add music to your games
+- **[Iteration](/docs/category/iteration)**: Refine and improve your games
+- **[Supports](/docs/category/supports)**: Get help and find answers to common questions
 
 ## Need Help?
 

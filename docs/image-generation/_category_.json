@@ -1,0 +1,9 @@
+{
+  "label": "Image Generation",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Generate and use images in your Arcane Forge games."
+  }
+}
+

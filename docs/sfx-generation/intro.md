@@ -1,10 +1,10 @@
 ---
-sidebar_position: 4
+sidebar_position: 1
 ---
 
-# Coding
+# SFX Generation
 
-Learn how to code and develop games using Arcane Forge.
+Learn how to generate and use sound effects in your Arcane Forge games.
 
 ## Overview
 
@@ -14,11 +14,11 @@ Learn how to code and develop games using Arcane Forge.
 
 [Content to be added]
 
-## Core Concepts
+## SFX Generation Tools
 
 [Content to be added]
 
-## Advanced Topics
+## Best Practices
 
 [Content to be added]
 

@@ -1,0 +1,9 @@
+{
+  "label": "Music Generation",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Create and add music to your Arcane Forge games."
+  }
+}
+

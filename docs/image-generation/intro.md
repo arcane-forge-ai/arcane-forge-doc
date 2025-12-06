@@ -1,10 +1,10 @@
 ---
-sidebar_position: 7
+sidebar_position: 1
 ---
 
-# Music Generation
+# Image Generation
 
-Learn how to generate and use music in your Arcane Forge games.
+Learn how to generate and use images in your Arcane Forge games.
 
 ## Overview
 
@@ -14,7 +14,7 @@ Learn how to generate and use music in your Arcane Forge games.
 
 [Content to be added]
 
-## Music Generation Tools
+## Image Generation Tools
 
 [Content to be added]
 

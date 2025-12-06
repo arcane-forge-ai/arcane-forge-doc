@@ -1,10 +1,10 @@
 ---
-sidebar_position: 6
+sidebar_position: 1
 ---
 
-# SFX Generation
+# Music Generation
 
-Learn how to generate and use sound effects in your Arcane Forge games.
+Learn how to generate and use music in your Arcane Forge games.
 
 ## Overview
 
@@ -14,7 +14,7 @@ Learn how to generate and use sound effects in your Arcane Forge games.
 
 [Content to be added]
 
-## SFX Generation Tools
+## Music Generation Tools
 
 [Content to be added]
 
