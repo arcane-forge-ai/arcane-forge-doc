@@ -4,21 +4,23 @@ sidebar_position: 1
 
 # Idealization
 
-Learn how to conceptualize and plan your game ideas with Arcane Forge.
+Idealization is the design foundation layer in Arcane Forge. It defines intent before heavy production work starts.
 
-## Overview
+## What This Layer Covers
 
-[Content to be added]
+- Project Home and project metadata
+- Game Introduction and progress tracking
+- Knowledge Base as shared project memory
+- Design Assistant and design evaluation
 
-## Getting Started with Game Ideas
+## Why It Matters
 
-[Content to be added]
+Strong design context reduces rework in coding and asset generation. It also improves AI output quality because decisions are explicit.
 
-## Planning Your Game
+## Read in This Order
 
-[Content to be added]
+1. [Project Home and Context](/docs/idealization/project-home-and-context)
+2. [Knowledge Base](/docs/idealization/knowledge-base)
+3. [Design Assistant and Evaluation](/docs/idealization/design-assistant-and-evaluation)
 
-## Best Practices
-
-[Content to be added]
-
+Next: [Project Home and Context](/docs/idealization/project-home-and-context)

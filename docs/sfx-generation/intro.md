@@ -4,25 +4,35 @@ sidebar_position: 1
 
 # SFX Generation
 
-Learn how to generate and use sound effects in your Arcane Forge games.
+SFX generation uses the same asset lifecycle as images and music: define an asset, generate variants, review, and keep the best outputs.
 
-## Overview
+## Shared Asset Model
 
-[Content to be added]
+Each SFX asset represents one sound intent, such as:
+- UI click
+- Weapon impact
+- Ambient loop element
 
-## Getting Started
+## Generation Controls
 
-[Content to be added]
+Typical controls include:
+- Prompt and negative prompt
+- Duration
+- Prompt influence (strict vs loose)
+- Number of generations
 
-## SFX Generation Tools
+## Review Workflow
 
-[Content to be added]
+Use Recent Generations to:
+- Preview clips
+- Mark favorites
+- Download approved outputs
+- Compare versions quickly
 
-## Best Practices
+`[AF_SCREENSHOT_SPEC id="sfx-music-generation-panel" file="./images/sfx-music-generation-panel.png" alt="SFX and music generation panel" capture="Audio generation panel showing prompt controls and recent generations" replace_with="![SFX and music generation panel](./images/sfx-music-generation-panel.png)"]`
 
-[Content to be added]
+## Current State
 
-## Examples
+SFX generation is beta. Expect iterative tuning for style and consistency.
 
-[Content to be added]
-
+Next: [Music Generation](/docs/music-generation/intro)
