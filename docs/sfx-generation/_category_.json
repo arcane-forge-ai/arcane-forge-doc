@@ -1,9 +1,13 @@
 {
   "label": "SFX Generation",
   "position": 6,
+  "className": "beta-feature",
   "link": {
     "type": "generated-index",
     "description": "Generate and integrate sound effects in your Arcane Forge games."
+  },
+  "customProps": {
+    "badge": "BETA"
   }
 }
 

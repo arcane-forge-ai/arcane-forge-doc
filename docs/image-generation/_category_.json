@@ -1,9 +1,13 @@
 {
   "label": "Image Generation",
   "position": 5,
+  "className": "beta-feature",
   "link": {
     "type": "generated-index",
     "description": "Generate and use images in your Arcane Forge games."
+  },
+  "customProps": {
+    "badge": "BETA"
   }
 }
 

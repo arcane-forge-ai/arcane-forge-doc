@@ -1,9 +1,13 @@
 {
   "label": "Music Generation",
   "position": 7,
+  "className": "beta-feature",
   "link": {
     "type": "generated-index",
     "description": "Create and add music to your Arcane Forge games."
+  },
+  "customProps": {
+    "badge": "BETA"
   }
 }
 
