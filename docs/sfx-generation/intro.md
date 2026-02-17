@@ -29,7 +29,7 @@ Use Recent Generations to:
 - Download approved outputs
 - Compare versions quickly
 
-`[AF_SCREENSHOT_SPEC id="sfx-music-generation-panel" file="./images/sfx-music-generation-panel.png" alt="SFX and music generation panel" capture="Audio generation panel showing prompt controls and recent generations" replace_with="![SFX and music generation panel](./images/sfx-music-generation-panel.png)"]`
+![SFX and music generation panel](./images/sfx-generation-panel.png)
 
 ## Current State
 

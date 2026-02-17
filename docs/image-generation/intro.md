@@ -22,7 +22,7 @@ Use the image overview page to:
 - Open existing assets
 - Generate from design documents when available
 
-`[AF_SCREENSHOT_SPEC id="asset-overview-page" file="./images/asset-overview-page.png" alt="Image asset overview page" capture="Image generation overview page showing asset list and create actions" replace_with="![Image asset overview page](./images/asset-overview-page.png)"]`
+![Image asset overview page](./images/asset-overview-page.png)
 
 ## Workflow Selection
 

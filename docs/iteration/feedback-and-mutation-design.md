@@ -14,7 +14,7 @@ Attach a feedback endpoint or API link in project release data so Arcane Forge c
 
 Use the comments list to inspect raw player voice before analysis.
 
-`[AF_SCREENSHOT_SPEC id="feedback-comments-list" file="./images/feedback-comments-list.png" alt="Feedback comments list" capture="Feedback page showing player comment list with selectable entries" replace_with="![Feedback comments list](./images/feedback-comments-list.png)"]`
+![Feedback comments list](./images/feedback-comments-list.png)
 
 ## Step 3: Choose Analysis Mode
 
@@ -34,7 +34,11 @@ Automated analysis should produce:
 - Actionable opportunities
 - Proposed mutations with impact and effort
 
-`[AF_SCREENSHOT_SPEC id="feedback-clusters-opportunities" file="./images/feedback-clusters-opportunities.png" alt="Feedback clusters and opportunities" capture="Automated feedback analysis output showing clusters, opportunities, and mutation list" replace_with="![Feedback clusters and opportunities](./images/feedback-clusters-opportunities.png)"]`
+![Feedback clusters](./images/feedback-clusters.png)
+
+![Feedback opportunities](./images/feedback-opportunities.png)
+
+![Feedback mutations](./images/feedback-mutations.png)
 
 ## Step 5: Generate Delta GDD
 

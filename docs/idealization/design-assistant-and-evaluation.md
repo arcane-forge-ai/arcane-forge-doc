@@ -21,7 +21,9 @@ When a conversation produces a stable design artifact, save it immediately.
 
 This converts short-term chat context into durable project memory.
 
-`[AF_SCREENSHOT_SPEC id="save-to-knowledge-base-flow" file="./images/save-to-knowledge-base-flow.png" alt="Save to Knowledge Base flow" capture="Design assistant toolbar showing Save File action and destination into Knowledge Base" replace_with="![Save to Knowledge Base flow](./images/save-to-knowledge-base-flow.png)"]`
+![Save to Knowledge Base flow](./images/save-to-knowledge-base-flow.png)
+
+(In case the `Save File` button doesn't pop out, you can toggle it using the tooltip button on upper right.)
 
 ## Design Evaluation
 

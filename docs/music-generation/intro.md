@@ -27,7 +27,7 @@ Include musical direction in prompts:
 
 Use prompt controls and generation count to explore options, then compare outputs in Recent Generations before selecting favorites.
 
-`[AF_SCREENSHOT_SPEC id="sfx-music-generation-panel" file="./images/sfx-music-generation-panel.png" alt="SFX and music generation panel" capture="Audio generation panel showing prompt controls and recent generations" replace_with="![SFX and music generation panel](./images/sfx-music-generation-panel.png)"]`
+![SFX and music generation panel](./images/music-generation-panel.png)
 
 ## Current State
 

@@ -26,9 +26,9 @@ Create a new project from the Projects dashboard with:
 - Project name
 - Project description
 
-![Projects dashboard](./images/projects-dashboard.png)"
+![Projects dashboard](./images/projects-dashboard.png)
 
-![New project modal](./images/new-project-modal.png)"
+![New project modal](./images/new-project-modal.png)
 
 ## Ownership and Permissions
 
@@ -44,12 +44,6 @@ From the project menu:
 1. Open Team Members
 2. Invite collaborators by email
 3. Collaborator accepts from the Invites page
-
-`[AF_SCREENSHOT_SPEC id="team-members-panel" file="./images/team-members-panel.png" alt="Team members panel" capture="Team members panel with current members and invite action" replace_with="![Team members panel](./images/team-members-panel.png)"]`
-
-`[AF_SCREENSHOT_SPEC id="invite-member-flow" file="./images/invite-member-flow.png" alt="Invite member flow" capture="Invite dialog or workflow showing email entry and send action" replace_with="![Invite member flow](./images/invite-member-flow.png)"]`
-
-`[AF_SCREENSHOT_SPEC id="pending-invitations" file="./images/pending-invitations.png" alt="Pending invitations page" capture="Invites section showing pending invitations with accept and decline actions" replace_with="![Pending invitations page](./images/pending-invitations.png)"]`
 
 ## Collaboration Hygiene
 
