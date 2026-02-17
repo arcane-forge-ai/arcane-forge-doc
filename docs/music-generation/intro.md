@@ -4,25 +4,33 @@ sidebar_position: 1
 
 # Music Generation
 
-Learn how to generate and use music in your Arcane Forge games.
+Music generation follows the same asset lifecycle as SFX: one track intent, multiple generations, and review-based selection.
 
-## Overview
+## Asset Lifecycle
 
-[Content to be added]
+Define the track goal first, such as:
+- Main menu theme
+- Combat loop
+- Victory stinger
 
-## Getting Started
+Then iterate versions inside the same asset.
 
-[Content to be added]
+## Prompting Guidance
 
-## Music Generation Tools
+Include musical direction in prompts:
+- Mood and energy
+- Tempo or pacing
+- Instrument style
+- Loop behavior if needed
 
-[Content to be added]
+## Generation Controls and Review
 
-## Best Practices
+Use prompt controls and generation count to explore options, then compare outputs in Recent Generations before selecting favorites.
 
-[Content to be added]
+![SFX and music generation panel](./images/music-generation-panel.png)
 
-## Examples
+## Current State
 
-[Content to be added]
+Music generation is beta. Results improve with clear prompt constraints and iterative passes.
 
+Next: [Iteration](/docs/iteration/intro)

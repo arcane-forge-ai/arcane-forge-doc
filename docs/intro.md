@@ -2,36 +2,51 @@
 sidebar_position: 1
 ---
 
-# Welcome to Arcane Forge
+# Arcane Forge Documentation
 
-Welcome to the **Arcane Forge Documentation**! This is your starting point for building real games with Arcane Forge.
+Arcane Forge is an AI-powered game development platform for teams who want to ship real games.
 
-## What is Arcane Forge?
+## What Arcane Forge Is
 
-Arcane Forge is a powerful game development framework designed to help you create amazing games. Whether you're building your first game or working on a complex project, Arcane Forge provides the tools and resources you need.
+Arcane Forge gives you a project-scoped workspace where design, code, images, SFX, music, and iteration stay connected.
 
-## Getting Started
+## What Arcane Forge Is Not
 
-Ready to start building? Check out our [Get Started](/docs/get-started/build-your-first-game) guide to build your first game with Arcane Forge.
+Arcane Forge is not a one-prompt game generator. You stay in control of architecture, product decisions, and final output.
 
-## Documentation Structure
+## Who It Is For
 
-Our documentation is organized to guide you through the entire game development process:
+Arcane Forge is built for:
+- Indie developers shipping commercial games
+- Small studios building prototypes and vertical slices
+- Designers who want to move from concept to playable systems
+- Cross-functional teams that need shared context across tools
 
-- **[Get Started](/docs/category/get-started)**: Learn the basics and build your first game
-- **[Idealization](/docs/category/idealization)**: Conceptualize and plan your game ideas
-- **[Coding](/docs/category/coding)**: Develop and code your games
-- **[Image Generation](/docs/category/image-generation)**: Create and use images in your games
-- **[SFX Generation](/docs/category/sfx-generation)**: Generate and integrate sound effects
-- **[Music Generation](/docs/category/music-generation)**: Create and add music to your games
-- **[Iteration](/docs/category/iteration)**: Refine and improve your games
-- **[Supports](/docs/category/supports)**: Get help and find answers to common questions
+## Human-First AI Philosophy
 
-## Need Help?
+Arcane Forge uses AI to accelerate execution, not replace ownership.
 
-If you have questions or need assistance:
+You make the decisions. AI helps with:
+- Structuring design work
+- Generating implementation options
+- Producing assets and drafts faster
+- Surfacing risks and missing information
 
-- Check out our [FAQs](/docs/supports/faqs) section
-- Visit our [GitHub repository](https://github.com/arcane-forge-ai/arcane-forge-doc) for issues and discussions
+## Start Here
 
-Let's build something amazing together! 🎮
+1. [Build Your First Game](/docs/get-started/build-your-first-game)
+2. [Projects and Collaboration](/docs/get-started/projects-and-collaboration)
+3. [Design Foundation (Idealization)](/docs/category/idealization)
+
+## Documentation Map
+
+- [Get Started](/docs/category/get-started): first project, core workflow, setup
+- [Idealization](/docs/category/idealization): project context, knowledge base, design assistant
+- [Coding](/docs/category/coding): coding handoff and Flame-specific workflow
+- [Image Generation](/docs/category/image-generation): image asset workflows
+- [SFX Generation](/docs/category/sfx-generation): sound effect workflows
+- [Music Generation](/docs/category/music-generation): music workflows
+- [Iteration](/docs/category/iteration): feedback analysis and mutation design
+- [Supports](/docs/category/supports): FAQs and support details
+
+Next: [Build Your First Game](/docs/get-started/build-your-first-game)

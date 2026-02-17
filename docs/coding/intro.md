@@ -2,58 +2,49 @@
 sidebar_position: 1
 ---
 
-# Quick Starter
+# Coding Quick Starter
 
-While Arcane Forge does not currently provide a native in-cloud coding environment (**this feature is coming soon!**), you can easily generate the code for your game using your favorite AI-powered Integrated Development Environment (IDE).
-
-This guide outlines the workflow for exporting your Arcane Forge design documents and using them to generate a working game prototype.
+Arcane Forge currently uses a tool-assisted coding workflow with your local IDE.
 
 ## Prerequisites
 
-You will need an AI-assisted code editor installed on your local machine. Any of the following are excellent choices:
-* **Cursor** (Used in this guide)
-* GitHub Copilot
-* Google Cloud Code
+Use an AI-enabled IDE such as:
+- Cursor
+- GitHub Copilot
+- Other MCP-compatible editors
 
-## Step 1: Export Your Design Documents
+## Step 1: Export Design Context From Knowledge Base
 
-To build your game, the AI needs to understand the mechanics, story, and logic you have created.
-1.  Go to your **Knowledge Base** in Arcane Forge.
-2.  Download or copy all relevant design documents for your project.
-3.  **Recommended:** Organize these files into a specific folder within your project directory (e.g., a folder named `design_docs`). This keeps your context clean and easy to manage.
+Download or copy the design docs that define your current game scope, then place them in a dedicated folder such as `design_docs`.
 
 ![Design Docs in Folder](./images/design_docs_in_folder.jpeg)
 
-## Step 2: Load Context into your IDE
+## Step 2: Load Context Into the IDE Assistant
 
-Open your chosen IDE (e.g., Cursor). You need to provide the AI with the context of your game design.
+Open your IDE chat panel and attach the design files so code generation stays grounded in project intent.
 
-1.  Open the AI Chat interface within the IDE.
-2.  Select all your design documents from the folder you created in Step 1.
-3.  Drag and drop them directly into the chat window. Alternatively, use the IDE's "Add Context" feature to reference these files.
+## Step 3: Generate and Iterate Locally
 
-## Step 3: Generate the Code
+Use a concrete implementation prompt, for example:
 
-Once the context is loaded, you can instruct the AI to build your game.
-
-### The Prompt
-For the best results, be specific about the technology stack. Internally, Arcane Forge utilizes the **Flutter Flame** engine for all our frontend projects, including all games we built. But you can choose whatever engine you want.
-
-Type the following prompt into the chat:
-
-> "Implement this game for me using the Flutter Flame engine."
+> "Implement this game using Flutter Flame. Start with the core gameplay loop and main scene architecture."
 
 ![Cursor Prompt](./images/cursor_prompt.jpeg)
 
-### Execution Modes
-Depending on your IDE, you may have different ways to execute this command:
-* **Plan Mode:** If available, use this to review the AI's proposed file structure and implementation steps before it begins writing code. This provides a more controlled generation process.
-* **Run/Generate:** If you prefer a hands-off approach (i.e. you are not a coding person), simply hit "Run." The AI will begin generating the necessary code files immediately.
+Depending on your IDE, review a plan first or run generation directly.
 
 ![Cursor Building Game](./images/cursor_building_game.jpeg)
 
-## Step 4: Iteration
+## Step 4: Expand and Refine
 
-It may take a few moments for the AI to write the full codebase. Once complete, you can run the project locally to test your game. If you need to make changes, simply continue the chat session, referencing the specific files you wish to modify.
+Iterate in short cycles:
+- Run the game locally
+- Review behavior against design docs
+- Ask for targeted code changes
+- Re-test
 
-# Read More
+## Flame-Specific Setup
+
+For Flame MCP and engine-specific setup, see [Flame Engine Guide](/docs/coding/flame).
+
+Next: [Flame Engine](/docs/coding/flame) | [Image Generation](/docs/image-generation/intro)

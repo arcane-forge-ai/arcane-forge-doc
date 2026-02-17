@@ -4,25 +4,46 @@ sidebar_position: 1
 
 # Image Generation
 
-Learn how to generate and use images in your Arcane Forge games.
+Image generation in Arcane Forge is asset-based: one asset can have many generated variants.
 
-## Overview
+## Asset Abstraction
 
-[Content to be added]
+Treat each asset as a persistent object with intent:
+- Character sprite
+- Environment background
+- UI element
 
-## Getting Started
+Then iterate variants under that asset without losing history.
 
-[Content to be added]
+## Asset Overview and Creation
 
-## Image Generation Tools
+Use the image overview page to:
+- Create assets manually
+- Open existing assets
+- Generate from design documents when available
 
-[Content to be added]
+![Image asset overview page](./images/asset-overview-page.png)
 
-## Best Practices
+## Workflow Selection
 
-[Content to be added]
+Image generation requires a workflow. Choose one of two approaches:
+1. Pick a workflow from the workflow library
+2. Describe intent in chat and use the recommended workflow
 
-## Examples
+## Prompt and Parameter Tuning
 
-[Content to be added]
+Typical controls include:
+- Positive and negative prompts
+- Aspect ratio
+- Number of outputs
+- Background removal when supported
 
+## Review and Selection
+
+Use Recent Generations to inspect results, favorite strong outputs, and download approved assets.
+
+## Current State
+
+Image generation is in early-stage beta. Quality depends on workflow fit and prompt quality. Plan for iteration.
+
+Next: [SFX Generation](/docs/sfx-generation/intro)

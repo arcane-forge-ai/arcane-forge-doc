@@ -4,25 +4,29 @@ sidebar_position: 1
 
 # Iteration
 
-Learn how to iterate and improve your games during development.
+Iteration in Arcane Forge turns player feedback into concrete design and production updates.
 
-## Overview
+## Feedback Is Part of the Build Loop
 
-[Content to be added]
+Treat feedback as a structured input to development, not a separate post-launch task.
 
-## The Iteration Process
+Goal:
+- Detect recurring issues
+- Prioritize high-impact fixes
+- Convert findings into explicit design changes
 
-[Content to be added]
+## Two Analysis Modes
 
-## Testing and Feedback
+1. Assisted discussion:
+- Select comments
+- Ask targeted questions in the Design Assistant
 
-[Content to be added]
+2. Automated analysis:
+- Cluster comments
+- Produce opportunities and proposed mutations
 
-## Refining Your Game
+## Output of Iteration
 
-[Content to be added]
+The end product is a mutation-backed design update that can be turned into a delta GDD and saved back to the Knowledge Base.
 
-## Best Practices
-
-[Content to be added]
-
+Next: [Feedback and Mutation Design](/docs/iteration/feedback-and-mutation-design)
