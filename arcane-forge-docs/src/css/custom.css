@@ -1,0 +1,28 @@
+:root {
+  --ifm-color-primary: #0f766e;
+  --ifm-color-primary-dark: #0d685f;
+  --ifm-color-primary-darker: #0c5e57;
+  --ifm-color-primary-darkest: #0a4c47;
+  --ifm-color-primary-light: #13897f;
+  --ifm-color-primary-lighter: #169687;
+  --ifm-color-primary-lightest: #1fa99b;
+  --ifm-code-font-size: 95%;
+}
+
+html[data-theme='dark'] {
+  --ifm-background-color: #0c1116;
+  --ifm-background-surface-color: #111821;
+  --ifm-footer-background-color: #0c1116;
+}
+
+body {
+  background: linear-gradient(180deg, rgba(15, 118, 110, 0.04) 0%, rgba(15, 118, 110, 0) 160px);
+}
+
+a {
+  text-decoration-thickness: 0.12em;
+}
+
+.hero .button.button--primary {
+  box-shadow: 0 8px 26px rgba(15, 118, 110, 0.35);
+}
